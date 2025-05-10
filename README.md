@@ -1,4 +1,4 @@
 # first-demo
 This is my first git repository.
 <br>
-Author-Aryan patel
+Author-Aryan (singh) patel
